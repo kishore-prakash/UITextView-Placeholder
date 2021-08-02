@@ -7,7 +7,7 @@ let package = Package(
     name: "UITextView+Placeholder",
     products: [
         .library(
-            name: "UITextView+Placeholder",
+            name: "UITextViewPlaceholder",
             targets: ["UITextView+Placeholder"]),
     ],
     dependencies: [],
