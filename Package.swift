@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "UITextView+Placeholder",
+    name: "UITextViewPlaceholder",
     products: [
         .library(
             name: "UITextViewPlaceholder",
